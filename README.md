@@ -21,8 +21,12 @@
   - Conv Block 2: 64 filters
   - Conv Block 3: 128 filters
   - Dense Layer: 256 nodes
-- Total Parameters: [jumlah dari model.count_params()]
-
+- Total Parameters:
+  Total params: 1,314,368 (5.01 MB)
+  Trainable params: 437,738 (1.67 MB)
+  Non-trainable params: 1,152 (4.50 KB)
+  Optimizer params: 875,478 (3.34 MB)
+ 
 ## Struktur Repositori
 
 - `fashion_mnist_cnn.ipynb`: Notebook utama
